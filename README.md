@@ -59,4 +59,12 @@ This project explores the trends in Netflix's library including content growth o
 ---
 
 ## 📁 Folder Structure
+netflix-data-analysis/
+├── Data/
+│   └── netflix_cleaned_for_tableau.csv
+├── Images/
+│   └── dashboard_screenshot.png
+├── netflix_dashboard.twbx (optional)
+└── README.md
+
 
