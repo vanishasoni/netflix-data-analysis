@@ -64,7 +64,10 @@ netflix-data-analysis/
 │   └── netflix_cleaned_for_tableau.csv
 ├── Images/
 │   └── dashboard_screenshot.png
+├── Notebooks/
+│   └── netflix_analysis.ipynb
 ├── netflix_dashboard.twbx (optional)
 └── README.md
+
 
 
